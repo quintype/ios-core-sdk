@@ -9,7 +9,7 @@
 import Foundation
 
 public class Analytics{
-    
+     
     //shared instances
     let api = Http.sharedInstance
     let object = Quintype.sharedInstance
